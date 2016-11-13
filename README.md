@@ -1,6 +1,7 @@
 # RecyclerView2
 ### SCREENSHOT 
-
+![ScreenShot](https://github.com/NicoAN42/recyclerview2/blob/master/r2.png "")
+![ScreenShot](https://github.com/NicoAN42/recyclerview2/blob/master/r2a.png "")
 <br>
 
 ### DATA DIRI
